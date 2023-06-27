@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OHoV0ZJp6okfGWJhPMHfOTQXmYGvI0D+skk9WYM7ay0/gabQQUxG8AIWChVD8HSs5OMBFIGmRJOB2CfEU0Zh0Q==",
+  "dgSpecHash": "kSRV5pT1Bx0CbJh+zW+Rwa4D42k1DPK4RlPfpqyTPzQPlAjH7rd9QZQjNSmwZo3AU5ecN1ZE4Gt3cr02NUxMZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\DESARROLLO DE APLICACIONES DE VANGUARDIA\\SmartMarket-master\\SmartMarket.Console\\SmartMarket.Console.csproj",
+  "projectFilePath": "C:\\Users\\Andrea\\Documents\\UNIVERSIDAD\\DESARROLLO DE APLICACIONES DE VANGUARDIA\\SmartMarket-master\\SmartMarket.Tests\\SmartMarket.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrea\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Andrea\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Andrea\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Andrea\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Andrea\\.nuget\\packages\\fluentassertions\\6.11.0\\fluentassertions.6.11.0.nupkg.sha512",
     "C:\\Users\\Andrea\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Andrea\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
@@ -127,7 +128,8 @@
     "C:\\Users\\Andrea\\.nuget\\packages\\xunit.assert\\2.4.2\\xunit.assert.2.4.2.nupkg.sha512",
     "C:\\Users\\Andrea\\.nuget\\packages\\xunit.core\\2.4.2\\xunit.core.2.4.2.nupkg.sha512",
     "C:\\Users\\Andrea\\.nuget\\packages\\xunit.extensibility.core\\2.4.2\\xunit.extensibility.core.2.4.2.nupkg.sha512",
-    "C:\\Users\\Andrea\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512"
+    "C:\\Users\\Andrea\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
+    "C:\\Users\\Andrea\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
   ],
   "logs": []
 }
