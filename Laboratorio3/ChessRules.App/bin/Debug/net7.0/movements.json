@@ -1,0 +1,44 @@
+[
+  {
+    "Piece": "KW",
+    "InColumn": "G",
+    "InRow": "8",
+    "ToColumn": "H",
+    "ToRow": "6"
+  },
+  {
+    "Piece": "KB",
+    "InColumn": "C",
+    "InRow": "3",
+    "ToColumn": "D",
+    "ToRow": "1"
+  },
+  {
+    "Piece": "KW",
+    "InColumn": "E",
+    "InRow": "2",
+    "ToColumn": "E",
+    "ToRow": "4"
+  },
+  {
+    "Piece": "RB",
+    "InColumn": "A",
+    "InRow": "4",
+    "ToColumn": "B",
+    "ToRow": "5"
+  },
+  {
+    "Piece": "PW",
+    "InColumn": "D",
+    "InRow": "3",
+    "ToColumn": "D",
+    "ToRow": "2"
+  },
+  {
+    "Piece": "PB",
+    "InColumn": "C",
+    "InRow": "5",
+    "ToColumn": "D",
+    "ToRow": "5"
+  }
+]
