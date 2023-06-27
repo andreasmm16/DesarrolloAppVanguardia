@@ -1,0 +1,17 @@
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\bin\Debug\net7.0\UTunes.Infrastructure.Database.deps.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\bin\Debug\net7.0\UTunes.Infrastructure.Database.runtimeconfig.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\bin\Debug\net7.0\UTunes.Infrastructure.Database.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\bin\Debug\net7.0\UTunes.Infrastructure.Database.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\bin\Debug\net7.0\UTunes.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\bin\Debug\net7.0\UTunes.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\UTunes.Infrastructure.Database.csproj.AssemblyReference.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\UTunes.Infrastructure.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\UTunes.Infrastructure.Database.AssemblyInfoInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\UTunes.Infrastructure.Database.AssemblyInfo.cs
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\UTunes.Infrastructure.Database.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\UTunes.Infrastructure.Database.csproj.CopyComplete
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\UTunes.Infrastructure.Database.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\refint\UTunes.Infrastructure.Database.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\UTunes.Infrastructure.Database.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\UTunes.Infrastructure.Database.genruntimeconfig.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Infrastructure.Database\obj\Debug\net7.0\ref\UTunes.Infrastructure.Database.dll

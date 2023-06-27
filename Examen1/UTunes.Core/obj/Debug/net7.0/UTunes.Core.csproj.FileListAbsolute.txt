@@ -1,0 +1,12 @@
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\bin\Debug\net7.0\UTunes.Core.deps.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\bin\Debug\net7.0\UTunes.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\bin\Debug\net7.0\UTunes.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\obj\Debug\net7.0\UTunes.Core.csproj.AssemblyReference.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\obj\Debug\net7.0\UTunes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\obj\Debug\net7.0\UTunes.Core.AssemblyInfoInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\obj\Debug\net7.0\UTunes.Core.AssemblyInfo.cs
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\obj\Debug\net7.0\UTunes.Core.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\obj\Debug\net7.0\UTunes.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\obj\Debug\net7.0\refint\UTunes.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\obj\Debug\net7.0\UTunes.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\utunes-api-main\UTunes.Core\obj\Debug\net7.0\ref\UTunes.Core.dll
