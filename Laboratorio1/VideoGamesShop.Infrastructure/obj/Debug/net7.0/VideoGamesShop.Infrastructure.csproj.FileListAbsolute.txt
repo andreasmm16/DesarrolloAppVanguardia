@@ -1,0 +1,15 @@
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\bin\Debug\net7.0\VideoGamesShop.Infrastructure.deps.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\bin\Debug\net7.0\VideoGamesShop.Infrastructure.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\bin\Debug\net7.0\VideoGamesShop.Infrastructure.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\bin\Debug\net7.0\VideoGamesShop.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\bin\Debug\net7.0\VideoGamesShop.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\obj\Debug\net7.0\VideoGamesShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\obj\Debug\net7.0\VideoGamesShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\obj\Debug\net7.0\VideoGamesShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\obj\Debug\net7.0\VideoGamesShop.Infrastructure.AssemblyInfo.cs
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\obj\Debug\net7.0\VideoGamesShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\obj\Debug\net7.0\VideoGamesShop.Infrastructure.csproj.CopyComplete
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\obj\Debug\net7.0\VideoGamesShop.Infrastructure.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\obj\Debug\net7.0\refint\VideoGamesShop.Infrastructure.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\obj\Debug\net7.0\VideoGamesShop.Infrastructure.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Infrastructure\obj\Debug\net7.0\ref\VideoGamesShop.Infrastructure.dll
