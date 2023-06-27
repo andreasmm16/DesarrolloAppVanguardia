@@ -1,0 +1,14 @@
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\bin\Debug\net7.0\VideoGamesShop.Core.deps.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\bin\Debug\net7.0\VideoGamesShop.Core.runtimeconfig.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\bin\Debug\net7.0\VideoGamesShop.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\bin\Debug\net7.0\VideoGamesShop.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\obj\Debug\net7.0\VideoGamesShop.Core.csproj.AssemblyReference.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\obj\Debug\net7.0\VideoGamesShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\obj\Debug\net7.0\VideoGamesShop.Core.AssemblyInfoInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\obj\Debug\net7.0\VideoGamesShop.Core.AssemblyInfo.cs
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\obj\Debug\net7.0\VideoGamesShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\obj\Debug\net7.0\VideoGamesShop.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\obj\Debug\net7.0\refint\VideoGamesShop.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\obj\Debug\net7.0\VideoGamesShop.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\obj\Debug\net7.0\VideoGamesShop.Core.genruntimeconfig.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\VideoGamesShop\VideoGamesShop.Core\obj\Debug\net7.0\ref\VideoGamesShop.Core.dll
