@@ -1,0 +1,12 @@
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\bin\Debug\net7.0\SmartMarket.Logic.deps.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\bin\Debug\net7.0\SmartMarket.Logic.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\bin\Debug\net7.0\SmartMarket.Logic.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\obj\Debug\net7.0\SmartMarket.Logic.csproj.AssemblyReference.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\obj\Debug\net7.0\SmartMarket.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\obj\Debug\net7.0\SmartMarket.Logic.AssemblyInfoInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\obj\Debug\net7.0\SmartMarket.Logic.AssemblyInfo.cs
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\obj\Debug\net7.0\SmartMarket.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\obj\Debug\net7.0\SmartMarket.Logic.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\obj\Debug\net7.0\refint\SmartMarket.Logic.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\obj\Debug\net7.0\SmartMarket.Logic.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Logic\obj\Debug\net7.0\ref\SmartMarket.Logic.dll
