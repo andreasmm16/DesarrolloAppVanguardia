@@ -1,0 +1,50 @@
+<div *ngIf="isAdd" class="card pb-3 px-2 mx-4 mb-4">
+    <div class="card-body">
+      <h2 class="card-title" style="color:rgb(0, 90, 194)">Agregar contacto</h2>
+      <div class="card-text">
+        <form [formGroup]="form" (ngSubmit)="onSubmit()">
+          <div class="form-group">
+            Nombre:
+            <input formControlName="name" type="text" class="form-control" [class.is-invalid]="!formControls['name'].valid && formControls['name'].pristine" />
+            <div
+              [hidden]="formControls['name'].valid || formControls['name'].pristine"
+              class="alert alert-danger"
+            >
+              El nombre es un campo requerido y debe tener una longitud mínima de 3 caracteres.
+            </div>
+          </div>
+          <div class="form-group">
+            Correo:
+            <input formControlName="email" type="email" class="form-control" [class.is-invalid]="!formControls['email'].valid && formControls['email'].pristine" />
+            <div
+            [hidden]="formControls['email'].valid || formControls['email'].pristine"
+            class="alert alert-danger"
+          >
+            El correo es inválido.
+          </div>
+          </div>
+          <div class="form-group">
+            Número telefónico:
+            <input formControlName="phone" type="number" class="form-control" [class.is-invalid]="!formControls['phone'].valid && formControls['phone'].pristine" />
+            <div
+            [hidden]="formControls['phone'].valid || formControls['phone'].pristine"
+            class="alert alert-danger"
+          >
+            El número telefónico es requerido.
+          </div>
+          </div>
+          <div class="form-group">
+            Título:
+            <select formControlName="title" class="form-control">
+              <option *ngFor="let title of titles" [value]="title">
+                {{ title }}
+              </option>
+            </select>
+          </div>
+          <br /><button type="submit" class="btn btn-block btn-success"  [disabled]="!form.valid">
+            Salvar contacto
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>

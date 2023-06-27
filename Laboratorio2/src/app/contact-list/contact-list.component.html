@@ -1,0 +1,19 @@
+<app-contacts-filter (filtered)="filterContacts($event)"></app-contacts-filter>
+<div class="container-fluid px-5">
+    <table class="table table-light table-striped table-hover" >
+        <thead>
+            <tr>
+              <th scope="col">Nombre</th>
+              <th scope="col">Título</th>
+            </tr>
+          </thead>
+        <tbody (click)="onClick(contact)" *ngFor="let contact of filteredList">
+            <tr>
+                <td>{{contact.name}}</td>
+                <td>{{contact.title}}</td>
+              </tr>
+        </tbody>
+    </table>    
+</div>
+
+<app-contact-info [contact]="selectedContact" (deletedContact)="deleteContact($event)" (contactToAdd)="addContact($event)"></app-contact-info>

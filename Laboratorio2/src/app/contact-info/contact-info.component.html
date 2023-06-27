@@ -1,0 +1,48 @@
+<div *ngIf="contact" class="card pb-3 px-2 mx-4 mb-4">
+  <div class="card-body">
+    <h3 class="card-title" style="color:rgb(0, 90, 194)">Contact Information</h3>
+    <div class="card-text">
+      Nombre:
+      <input
+        type="text"
+        [value]="contact.name"
+        class="form-control"
+        readonly="readonly"
+      />
+      Correo:
+      <input
+        type="email"
+        [value]="contact.email"
+        class="form-control"
+        readonly="readonly"
+      />
+      Número telefónico:
+      <input
+        type="number"
+        [value]="contact.phoneNumber"
+        class="form-control"
+        readonly="readonly"
+      />
+      Título:
+      <input
+        type="text"
+        [value]="contact.title"
+        class="form-control"
+        readonly="readonly"
+      />
+    </div>
+  </div>
+  <div>
+    <button
+      (click)="deleteContact(contact)"
+      type="button"
+      class="btn btn-danger col-sm-2 mx-4"
+    >
+      Eliminar contacto
+    </button>
+   <button (click)="showAddContact()" type="button" class="btn btn-success col-sm-2 mx-4">
+      Agregar contacto
+    </button>
+  </div>
+</div>
+<app-add-contact [isAdd]="isAdd" (addedContact)="transferAddContact($event)" (hideAdd)="hideAddComponent($event)"></app-add-contact>
