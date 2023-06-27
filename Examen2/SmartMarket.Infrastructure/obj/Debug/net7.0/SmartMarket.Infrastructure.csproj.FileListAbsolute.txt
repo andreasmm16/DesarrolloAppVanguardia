@@ -1,0 +1,15 @@
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\bin\Debug\net7.0\SmartMarket.Infrastructure.deps.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\bin\Debug\net7.0\SmartMarket.Infrastructure.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\bin\Debug\net7.0\SmartMarket.Infrastructure.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\bin\Debug\net7.0\SmartMarket.Logic.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\bin\Debug\net7.0\SmartMarket.Logic.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\obj\Debug\net7.0\SmartMarket.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\obj\Debug\net7.0\SmartMarket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\obj\Debug\net7.0\SmartMarket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\obj\Debug\net7.0\SmartMarket.Infrastructure.AssemblyInfo.cs
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\obj\Debug\net7.0\SmartMarket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\obj\Debug\net7.0\SmartMarket.Infrastructure.csproj.CopyComplete
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\obj\Debug\net7.0\SmartMarket.Infrastructure.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\obj\Debug\net7.0\refint\SmartMarket.Infrastructure.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\obj\Debug\net7.0\SmartMarket.Infrastructure.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\SmartMarket-master\SmartMarket.Infrastructure\obj\Debug\net7.0\ref\SmartMarket.Infrastructure.dll
