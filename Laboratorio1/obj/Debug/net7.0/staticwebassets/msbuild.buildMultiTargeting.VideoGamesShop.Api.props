@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\VideoGamesShop.Api.props" />
-</Project>
