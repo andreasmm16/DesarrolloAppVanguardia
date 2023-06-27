@@ -1,0 +1,12 @@
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\bin\Debug\net7.0\ChessRules.Core.deps.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\bin\Debug\net7.0\ChessRules.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\bin\Debug\net7.0\ChessRules.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\obj\Debug\net7.0\ChessRules.Core.csproj.AssemblyReference.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\obj\Debug\net7.0\ChessRules.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\obj\Debug\net7.0\ChessRules.Core.AssemblyInfoInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\obj\Debug\net7.0\ChessRules.Core.AssemblyInfo.cs
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\obj\Debug\net7.0\ChessRules.Core.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\obj\Debug\net7.0\ChessRules.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\obj\Debug\net7.0\refint\ChessRules.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\obj\Debug\net7.0\ChessRules.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Core\obj\Debug\net7.0\ref\ChessRules.Core.dll
