@@ -1,0 +1,15 @@
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\bin\Debug\net7.0\ChessRules.Infrastructure.deps.json
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\bin\Debug\net7.0\ChessRules.Infrastructure.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\bin\Debug\net7.0\ChessRules.Infrastructure.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\bin\Debug\net7.0\ChessRules.Core.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\bin\Debug\net7.0\ChessRules.Core.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\obj\Debug\net7.0\ChessRules.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\obj\Debug\net7.0\ChessRules.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\obj\Debug\net7.0\ChessRules.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\obj\Debug\net7.0\ChessRules.Infrastructure.AssemblyInfo.cs
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\obj\Debug\net7.0\ChessRules.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\obj\Debug\net7.0\ChessRules.Infrastructure.csproj.CopyComplete
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\obj\Debug\net7.0\ChessRules.Infrastructure.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\obj\Debug\net7.0\refint\ChessRules.Infrastructure.dll
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\obj\Debug\net7.0\ChessRules.Infrastructure.pdb
+C:\Users\Andrea\Documents\UNIVERSIDAD\DESARROLLO DE APLICACIONES DE VANGUARDIA\ChessRules\ChessRules.Infrastructure\obj\Debug\net7.0\ref\ChessRules.Infrastructure.dll
